@@ -30,7 +30,12 @@
     /**
      * Checked by ESLint
      */
-    "noUnusedLocals": false
+    "noUnusedLocals": false,
+
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    }
   },
   "include": ["src"],
   "references": [{ "path": "./tsconfig.node.json" }]
