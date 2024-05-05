@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "moalamri.inline-fold",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "stylelint.vscode-stylelint",
+    "mhutchie.git-graph",
+    "eamodio.gitlens",
+    "GitHub.vscode-pull-request-github",
+    "wallabyjs.console-ninja",
+    "wallabyjs.quokka-vscode",
+    "editorconfig.editorconfig",
+    "mikestead.dotenv",
+    "bradlc.vscode-tailwindcss",
+    "vunguyentuan.vscode-postcss",
+    "wix.vscode-import-cost"
+  ]
+}
